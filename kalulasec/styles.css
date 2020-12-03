@@ -1,0 +1,66 @@
+.contact{
+    text-align: center;
+    color: blanchedalmond;
+    line-height: 3rem;
+    padding: 80px;
+}
+hr{
+    background-color: blanchedalmond;
+    width: 30%;
+}
+
+.quicklinks{
+    padding: 80px;
+    color: blanchedalmond;
+}
+
+/* CONTACT FEATURES */
+.contact1{
+    padding: 20px;
+    text-align: center;
+    line-height: 2rem;
+}
+.getintouch{
+    text-align: center;
+    padding: 15px;
+}
+
+
+/* ABOUT US FEATURES */
+.pictures{
+    max-width: 150px;
+    max-height: 150px;
+    
+}
+
+.valuescaro{
+    text-align: center;
+    padding: 10px;
+}
+
+/* HONE FEATURES */
+.provide{
+    max-width: 200px;
+    max-height: 200px;
+    margin: 0 auto;
+}
+
+
+.logo{
+    background: transparent;
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.blocks{
+    max-width: 224.75rem;
+    max-height: 370rem;
+}
+
+/* HEADER FEATURES */
+.nav-link{
+    color: thistle!important;
+}
+.nav-link:hover{
+color: white!important;
+}
